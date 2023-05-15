@@ -1,0 +1,20 @@
+#fruits-list {
+  list-style-type: none;
+  padding: 0;
+  display: flex;
+  margin: 0px, 10px;
+}
+
+#fruits-list li {
+  margin-bottom: 10px;
+}
+
+#fruits-list li {
+  background-color: green;
+  color: white;
+}
+
+#fruits-list li:last-child {
+  background-color: orange;
+  color: white;
+}/*# sourceMappingURL=style.css.map */
